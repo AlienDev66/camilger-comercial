@@ -1,8 +1,8 @@
 # camilger-comercial
-<h1 align="center">
+<-- <h1 align="center">
   <img  src="./.github/logo.svg"/>
 </h1>
-
+-->
 Application for mini market management.
 
 <h4 align="center"> 
